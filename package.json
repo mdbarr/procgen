@@ -1,0 +1,13 @@
+{
+  "name": "procgen",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "barrkeep": "^2.0.0"
+  },
+  "description": "Procedural generation experiments",
+  "repository": "git@github.com:mdbarr/procgen.git",
+  "author": "Mark Barr <mark@hyperingenuity.com>",
+  "private": false
+}
